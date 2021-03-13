@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @uthpalasam7 -
+👋 Hi, I’m @uthpalasam7
