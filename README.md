@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full-stack developer skilled in Node.js, React, and Spring Boot.<br>🌟 Passionate about coding and problem-solving.<br>🚀 Building impactful projects through hands-on learning.<br>📚 Continuously improving and exploring new technologies.<br>💡 Driven by curiosity and innovation.
+👨‍💻 Full-stack developer skilled in Node.js, React, Angular and Spring Boot.<br>🌟 Passionate about coding and problem-solving.<br>🚀 Building impactful projects through hands-on learning.<br>📚 Continuously improving and exploring new technologies.<br>💡 Driven by curiosity and innovation.
 
 
 ## 🌐 Socials:
